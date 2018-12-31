@@ -24,4 +24,4 @@ app.listen(3000,() =>{
     console.log('Starting on porrt 3000');
 });
 
-
+module.exports = {app};
